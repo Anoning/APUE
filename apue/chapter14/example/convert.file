@@ -1,0 +1,578 @@
+# Argjbex freivprf, Vagrearg fglyr
+#
+# Abgr gung vg vf cerfragyl gur cbyvpl bs VNAN gb nffvta n fvatyr jryy-xabja
+# cbeg ahzore sbe obgu GPC naq HQC; urapr, bssvpvnyyl cbegf unir gjb ragevrf
+# rira vs gur cebgbpby qbrfa'g fhccbeg HQC bcrengvbaf.
+#
+# Hcqngrq sebz uggcf://jjj.vnan.bet/nffvtazragf/freivpr-anzrf-cbeg-ahzoref/freivpr-anzrf-cbeg-ahzoref.kugzy .
+#
+# Arj cbegf jvyy or nqqrq ba erdhrfg vs gurl unir orra bssvpvnyyl nffvtarq
+# ol VNAN naq hfrq va gur erny-jbeyq be ner arrqrq ol n qrovna cnpxntr.
+# Vs lbh arrq n uhtr yvfg bs hfrq ahzoref cyrnfr vafgnyy gur aznc cnpxntr.
+
+gpczhk		1/gpc				# GPC cbeg freivpr zhygvcyrkre
+rpub		7/gpc
+rpub		7/hqc
+qvfpneq		9/gpc		fvax ahyy
+qvfpneq		9/hqc		fvax ahyy
+flfgng		11/gpc		hfref
+qnlgvzr		13/gpc
+qnlgvzr		13/hqc
+argfgng		15/gpc
+dbgq		17/gpc		dhbgr
+zfc		18/gpc				# zrffntr fraq cebgbpby
+zfc		18/hqc
+punetra		19/gpc		gglgfg fbhepr
+punetra		19/hqc		gglgfg fbhepr
+sgc-qngn	20/gpc
+sgc		21/gpc
+sfc		21/hqc		sfcq
+ffu		22/gpc				# FFU Erzbgr Ybtva Cebgbpby
+gryarg		23/gpc
+fzgc		25/gpc		znvy
+gvzr		37/gpc		gvzfreire
+gvzr		37/hqc		gvzfreire
+eyc		39/hqc		erfbhepr	# erfbhepr ybpngvba
+anzrfreire	42/gpc		anzr		# VRA 116
+jubvf		43/gpc		avpanzr
+gnpnpf		49/gpc				# Ybtva Ubfg Cebgbpby (GNPNPF)
+gnpnpf		49/hqc
+qbznva		53/gpc				# Qbznva Anzr Freire
+qbznva		53/hqc
+obbgcf		67/hqc
+obbgcp		68/hqc
+gsgc		69/hqc
+tbcure		70/gpc				# Vagrearg Tbcure
+svatre		79/gpc
+uggc		80/gpc		jjj		# JbeyqJvqrJro UGGC
+yvax		87/gpc		gglyvax
+xreorebf	88/gpc		xreorebf5 xeo5 xreorebf-frp	# Xreorebf i5
+xreorebf	88/hqc		xreorebf5 xeo5 xreorebf-frp	# Xreorebf i5
+vfb-gfnc	102/gpc		gfnc		# cneg bs VFBQR
+npe-arzn	104/gpc		qvpbz		# Qvtvgny Vznt. & Pbzz. 300
+cbc3		110/gpc		cbc-3		# CBC irefvba 3
+fhaecp		111/gpc		cbegznccre	# ECP 4.0 cbegznccre
+fhaecp		111/hqc		cbegznccre
+nhgu		113/gpc		nhguragvpngvba gnc vqrag
+fsgc		115/gpc
+aagc		119/gpc		ernqarjf hagc	# HFRARG Arjf Genafsre Cebgbpby
+agc		123/hqc				# Argjbex Gvzr Cebgbpby
+rcznc		135/gpc		ybp-fei		# QPR raqcbvag erfbyhgvba
+rcznc		135/hqc		ybp-fei
+argovbf-af	137/gpc				# ARGOVBF Anzr Freivpr
+argovbf-af	137/hqc
+argovbf-qtz	138/gpc				# ARGOVBF Qngntenz Freivpr
+argovbf-qtz	138/hqc
+argovbf-ffa	139/gpc				# ARGOVBF frffvba freivpr
+argovbf-ffa	139/hqc
+vznc2		143/gpc		vznc		# Vagrevz Znvy Npprff C 2 naq 4
+fazc		161/gpc				# Fvzcyr Arg Ztzg Cebgbpby
+fazc		161/hqc
+fazc-genc	162/gpc		fazcgenc	# Gencf sbe FAZC
+fazc-genc	162/hqc		fazcgenc
+pzvc-zna	163/gpc				# VFB ztzg bire VC (PZBG)
+pzvc-zna	163/hqc
+pzvc-ntrag	164/gpc
+pzvc-ntrag	164/hqc
+znvyd		174/gpc			# Znvyre genafcbeg dhrhr sbe Mznvyre
+znvyd		174/hqc
+kqzpc		177/gpc				# K Qvfcynl Zte. Pbageby Cebgb
+kqzpc		177/hqc
+arkgfgrc	178/gpc		ArKGFgrc ArkgFgrc	# ArKGFgrc jvaqbj
+arkgfgrc	178/hqc		ArKGFgrc ArkgFgrc	#  freire
+otc		179/gpc				# Obeqre Tngrjnl Cebgbpby
+vep		194/gpc				# Vagrearg Erynl Pung
+vep		194/hqc
+fzhk		199/gpc				# FAZC Havk Zhygvcyrkre
+fzhk		199/hqc
+ng-egzc		201/gpc				# NccyrGnyx ebhgvat
+ng-egzc		201/hqc
+ng-aoc		202/gpc				# NccyrGnyx anzr ovaqvat
+ng-aoc		202/hqc
+ng-rpub		204/gpc				# NccyrGnyx rpub
+ng-rpub		204/hqc
+ng-mvf		206/gpc				# NccyrGnyx mbar vasbezngvba
+ng-mvf		206/hqc
+dzgc		209/gpc				# Dhvpx Znvy Genafsre Cebgbpby
+dzgc		209/hqc
+m3950		210/gpc		jnvf		# AVFB M39.50 qngnonfr
+m3950		210/hqc		jnvf
+vck		213/gpc				# VCK
+vck		213/hqc
+cgc-rirag	319/hqc
+cgc-trareny	320/hqc
+cnjfrei		345/gpc				# Cres Nanylfvf Jbexorapu
+cnjfrei		345/hqc
+mfrei		346/gpc				# Mroen freire
+mfrei		346/hqc
+sngfrei		347/gpc				# Sngzra Freire
+sngfrei		347/hqc
+ecp2cbegznc	369/gpc
+ecp2cbegznc	369/hqc				# Pbqn cbegznccre
+pbqnnhgu2	370/gpc
+pbqnnhgu2	370/hqc				# Pbqn nhguragvpngvba freire
+pyrnepnfr	371/gpc		Pyrnepnfr
+pyrnepnfr	371/hqc		Pyrnepnfr
+hyvfgfrei	372/gpc				# HAVK Yvfgfrei
+hyvfgfrei	372/hqc
+yqnc		389/gpc			# Yvtugjrvtug Qverpgbel Npprff Cebgbpby
+yqnc		389/hqc
+vzfc		406/gpc			# Vagrenpgvir Znvy Fhccbeg Cebgbpby
+vzfc		406/hqc
+fieybp		427/gpc				# Freire Ybpngvba
+fieybp		427/hqc
+uggcf		443/gpc				# uggc cebgbpby bire GYF/FFY
+facc		444/gpc				# Fvzcyr Argjbex Cntvat Cebgbpby
+facc		444/hqc
+zvpebfbsg-qf	445/gpc				# Zvpebfbsg Anxrq PVSF
+zvpebfbsg-qf	445/hqc
+xcnffjq		464/gpc
+xcnffjq		464/hqc
+fhozvffvbaf	465/gpc		ffzgc fzgcf heq # Fhozvffvba bire GYF [ESP8314]
+fnsg		487/gpc			# Fvzcyr Nflapuebabhf Svyr Genafsre
+fnsg		487/hqc
+vfnxzc		500/gpc			# VCfrp - Vagrearg Frphevgl Nffbpvngvba
+vfnxzc		500/hqc			#  naq Xrl Znantrzrag Cebgbpby
+egfc		554/gpc			# Erny Gvzr Fgernz Pbageby Cebgbpby
+egfc		554/hqc
+adf		607/gpc				# Argjbex Dhrhvat flfgrz
+adf		607/hqc
+aczc-ybpny	610/gpc		qdf313_dznfgre		# aczc-ybpny / QDF
+aczc-ybpny	610/hqc		qdf313_dznfgre
+aczc-thv	611/gpc		qdf313_rkrpq		# aczc-thv / QDF
+aczc-thv	611/hqc		qdf313_rkrpq
+uzzc-vaq	612/gpc		qdf313_vagrepryy	# UZZC Vaqvpngvba / QDF
+uzzc-vaq	612/hqc		qdf313_vagrepryy
+nfs-ezpc	623/hqc		# NFS Erzbgr Znantrzrag naq Pbageby Cebgbpby
+dzdc		628/gpc
+dzdc		628/hqc
+vcc		631/gpc				# Vagrearg Cevagvat Cebgbpby
+vcc		631/hqc
+#
+# HAVK fcrpvsvp freivprf
+#
+rkrp		512/gpc
+ovss		512/hqc		pbzfng
+ybtva		513/gpc
+jub		513/hqc		jubq
+furyy		514/gpc		pzq		# ab cnffjbeqf hfrq
+flfybt		514/hqc
+cevagre		515/gpc		fcbbyre		# yvar cevagre fcbbyre
+gnyx		517/hqc
+agnyx		518/hqc
+ebhgr		520/hqc		ebhgre ebhgrq	# EVC
+gvzrq		525/hqc		gvzrfreire
+grzcb		526/gpc		arjqngr
+pbhevre		530/gpc		ecp
+pbasrerapr	531/gpc		pung
+argarjf		532/gpc		ernqarjf
+argjnyy		533/hqc				# sbe rzretrapl oebnqpnfgf
+tqbznc		538/gpc				# TAHfgrc qvfgevohgrq bowrpgf
+tqbznc		538/hqc
+hhpc		540/gpc		hhpcq		# hhpc qnrzba
+xybtva		543/gpc				# Xreorevmrq `eybtva' (i5)
+xfuryy		544/gpc		xepzq		# Xreorevmrq `efu' (i5)
+qupci6-pyvrag	546/gpc
+qupci6-pyvrag	546/hqc
+qupci6-freire	547/gpc
+qupci6-freire	547/hqc
+nscbiregpc	548/gpc				# NSC bire GPC
+nscbiregpc	548/hqc
+vqsc		549/gpc
+vqsc		549/hqc
+erzbgrsf	556/gpc		esf_freire esf	# Oehaubss erzbgr svyrflfgrz
+aagcf		563/gpc		faagc		# AAGC bire FFY
+fhozvffvba	587/gpc				# Fhozvffvba [ESP4409]
+yqncf		636/gpc				# YQNC bire FFY
+yqncf		636/hqc
+gvap		655/gpc				# gvap pbageby cbeg
+gvap		655/hqc
+fvyp		706/gpc
+fvyp		706/hqc
+xreorebf-nqz	749/gpc				# Xreorebf `xnqzva' (i5)
+#
+jrofgre		765/gpc				# Argjbex qvpgvbanel
+jrofgre		765/hqc
+qbznva-f	853/gpc				# QAF bire GYF [ESP7858]
+qbznva-f	853/hqc				# QAF bire QGYF [ESP8094]
+eflap		873/gpc
+sgcf-qngn	989/gpc				# SGC bire FFY (qngn)
+sgcf		990/gpc
+gryargf		992/gpc				# Gryarg bire FFY
+vzncf		993/gpc				# VZNC bire FFY
+cbc3f		995/gpc				# CBC-3 bire FFY
+#
+# Sebz ``Nffvtarq Ahzoref'':
+#
+#> Gur Ertvfgrerq Cbegf ner abg pbagebyyrq ol gur VNAN naq ba zbfg flfgrzf
+#> pna or hfrq ol beqvanel hfre cebprffrf be cebtenzf rkrphgrq ol beqvanel
+#> hfref.
+#
+#> Cbegf ner hfrq va gur GPC [45,106] gb anzr gur raqf bs ybtvpny
+#> pbaarpgvbaf juvpu pneel ybat grez pbairefngvbaf.  Sbe gur checbfr bs
+#> cebivqvat freivprf gb haxabja pnyyref, n freivpr pbagnpg cbeg vf
+#> qrsvarq.  Guvf yvfg fcrpvsvrf gur cbeg hfrq ol gur freire cebprff nf vgf
+#> pbagnpg cbeg.  Juvyr gur VNAN pna abg pbageby hfrf bs gurfr cbegf vg
+#> qbrf ertvfgre be yvfg hfrf bs gurfr cbegf nf n pbaivrarapr gb gur
+#> pbzzhavgl.
+#
+fbpxf		1080/gpc			# fbpxf cebkl freire
+fbpxf		1080/hqc
+cebbsq		1093/gpc
+cebbsq		1093/hqc
+ebbgq		1094/gpc
+ebbgq		1094/hqc
+bcraica		1194/gpc
+bcraica		1194/hqc
+ezvertvfgel	1099/gpc			# Wnin EZV Ertvfgel
+ezvertvfgel	1099/hqc
+xnmnn		1214/gpc
+xnmnn		1214/hqc
+arffhf		1241/gpc			# Arffhf ihyarenovyvgl
+arffhf		1241/hqc			#  nffrffzrag fpnaare
+ybghfabgr	1352/gpc	ybghfabgrf	# Ybghf Abgr
+ybghfabgr	1352/hqc	ybghfabgrf
+zf-fdy-f	1433/gpc			# Zvpebfbsg FDY Freire
+zf-fdy-f	1433/hqc
+zf-fdy-z	1434/gpc			# Zvpebfbsg FDY Zbavgbe
+zf-fdy-z	1434/hqc
+vaterfybpx	1524/gpc
+vaterfybpx	1524/hqc
+qngnzrgevpf	1645/gpc	byq-enqvhf
+qngnzrgevpf	1645/hqc	byq-enqvhf
+fn-zft-cbeg	1646/gpc	byq-enqnppg
+fn-zft-cbeg	1646/hqc	byq-enqnppg
+xrezvg		1649/gpc
+xrezvg		1649/hqc
+tebhcjvfr	1677/gpc
+tebhcjvfr	1677/hqc
+y2s		1701/gpc	y2gc
+y2s		1701/hqc	y2gc
+enqvhf		1812/gpc
+enqvhf		1812/hqc
+enqvhf-nppg	1813/gpc	enqnppg		# Enqvhf Nppbhagvat
+enqvhf-nppg	1813/hqc	enqnppg
+zfac		1863/gpc			# ZFA Zrffratre
+zfac		1863/hqc
+havk-fgnghf	1957/gpc			# erzfgngf havk-fgnghf freire
+ybt-freire	1958/gpc			# erzfgngf ybt freire
+erzbgrcvat	1959/gpc			# erzfgngf erzbgrcvat freire
+pvfpb-fppc	2000/gpc			# Pvfpb FPPC
+pvfpb-fppc	2000/hqc
+frnepu		2010/gpc	aqgc
+cvcr-freire	2010/gpc	cvcr_freire
+asf		2049/gpc			# Argjbex Svyr Flfgrz
+asf		2049/hqc			# Argjbex Svyr Flfgrz
+taharg		2086/gpc
+taharg		2086/hqc
+egpz-fp104	2101/gpc			# EGPZ FP-104 VNAN 1/29/99
+egpz-fp104	2101/hqc
+tfvtngrxrrcre	2119/gpc
+tfvtngrxrrcre	2119/hqc
+tevf		2135/gpc		# Tevq Erfbhepr Vasbezngvba Freire
+tevf		2135/hqc
+pifcfreire	2401/gpc			# PIF pyvrag/freire bcrengvbaf
+pifcfreire	2401/hqc
+irahf		2430/gpc			# pbqnpba cbeg
+irahf		2430/hqc			# Irahf pnyyonpx/jop vagresnpr
+irahf-fr	2431/gpc			# gpc fvqr rssrpgf
+irahf-fr	2431/hqc			# hqc fsgc fvqr rssrpg
+pbqnfei		2432/gpc			# abg hfrq
+pbqnfei		2432/hqc			# freire cbeg
+pbqnfei-fr	2433/gpc			# gpc fvqr rssrpgf
+pbqnfei-fr	2433/hqc			# hqc fsgc fvqr rssrpg
+zba		2583/gpc			# ZBA gencf
+zba		2583/hqc
+qvpg		2628/gpc			# Qvpgvbanel freire
+qvpg		2628/hqc
+s5-tybonyfvgr	2792/gpc
+s5-tybonyfvgr	2792/hqc
+tfvsgc		2811/gpc
+tfvsgc		2811/hqc
+tcfq		2947/gpc
+tcfq		2947/hqc
+tqf-qo		3050/gpc	tqf_qo		# VagreOnfr freire
+tqf-qo		3050/hqc	tqf_qo
+vpci2		3130/gpc	vpc		# Vagrearg Pnpur Cebgbpby
+vpci2		3130/hqc	vpc
+vfaf		3205/gpc			# vFAF Freire Cbeg
+vfaf		3205/hqc			# vFAF Freire Cbeg
+vfpfv-gnetrg	3260/gpc
+zlfdy		3306/gpc
+zlfdy		3306/hqc
+ahg		3493/gpc			# Argjbex HCF Gbbyf
+ahg		3493/hqc
+qvfgpp		3632/gpc			# qvfgevohgrq pbzcvyre
+qvfgpp		3632/hqc
+qnnc		3689/gpc			# Qvtvgny Nhqvb Npprff Cebgbpby
+qnnc		3689/hqc
+fia		3690/gpc	fhoirefvba	# Fhoirefvba cebgbpby
+fia		3690/hqc	fhoirefvba
+fhhpc		4031/gpc			# HHPC bire FFY
+fhhpc		4031/hqc
+flfedq		4094/gpc			# flfed qnrzba
+flfedq		4094/hqc
+fvrir		4190/gpc			# ZnantrFvrir Cebgbpby
+rczq		4369/gpc			# Reynat Cbeg Znccre Qnrzba
+rczq		4369/hqc
+erzpgy		4373/gpc		# Erzbgr Nhguragvpngrq Pbzznaq Freivpr
+erzpgy		4373/hqc
+s5-vdhrel	4353/gpc			# S5 vDhrel
+s5-vdhrel	4353/hqc
+vcfrp-ang-g	4500/hqc			# VCfrp ANG-Genirefny [ESP3947]
+vnk		4569/gpc			# Vagre-Nfgrevfx rKpunatr
+vnk		4569/hqc
+zga		4691/gpc			# zbabgbar Argflap Cebgbpby
+zga		4691/hqc
+enqzva-cbeg	4899/gpc			# ENqzva Cbeg
+enqzva-cbeg	4899/hqc
+esr		5002/hqc			# Enqvb Serr Rgurearg
+esr		5002/gpc
+zzpp		5050/gpc	# zhygvzrqvn pbasrerapr pbageby gbby (Lnubb VZ)
+zzpp		5050/hqc
+fvc		5060/gpc			# Frffvba Vavgvngvba Cebgbpby
+fvc		5060/hqc
+fvc-gyf		5061/gpc
+fvc-gyf		5061/hqc
+nby		5190/gpc			# NVZ
+nby		5190/hqc
+kzcc-pyvrag	5222/gpc	wnoore-pyvrag	# Wnoore Pyvrag Pbaarpgvba
+kzcc-pyvrag	5222/hqc	wnoore-pyvrag
+kzcc-freire	5269/gpc	wnoore-freire	# Wnoore Freire Pbaarpgvba
+kzcc-freire	5269/hqc	wnoore-freire
+psratvar	5308/gpc
+psratvar	5308/hqc
+zqaf		5353/gpc			# Zhygvpnfg QAF
+zqaf		5353/hqc
+cbfgterfdy	5432/gpc	cbfgterf	# CbfgterFDY Qngnonfr
+cbfgterfdy	5432/hqc	cbfgterf
+serrpvi		5556/gpc	ecgc		# Serrpvi tnzrcynl
+serrpvi		5556/hqc
+nzdcf		5671/gpc			# NZDC cebgbpby bire GYF/FFY
+nzdc		5672/gpc
+nzdc		5672/hqc
+nzdc		5672/fpgc
+ttm		5688/gpc			# TTM Tnzvat Mbar
+ttm		5688/hqc
+k11		6000/gpc	k11-0		# K Jvaqbj Flfgrz
+k11		6000/hqc	k11-0
+k11-1		6001/gpc
+k11-1		6001/hqc
+k11-2		6002/gpc
+k11-2		6002/hqc
+k11-3		6003/gpc
+k11-3		6003/hqc
+k11-4		6004/gpc
+k11-4		6004/hqc
+k11-5		6005/gpc
+k11-5		6005/hqc
+k11-6		6006/gpc
+k11-6		6006/hqc
+k11-7		6007/gpc
+k11-7		6007/hqc
+tahgryyn-fip	6346/gpc			# tahgryyn
+tahgryyn-fip	6346/hqc
+tahgryyn-ege	6347/gpc			# tahgryyn
+tahgryyn-ege	6347/hqc
+ftr-dznfgre	6444/gpc	ftr_dznfgre	# Tevq Ratvar Dznfgre Freivpr
+ftr-dznfgre	6444/hqc	ftr_dznfgre
+ftr-rkrpq	6445/gpc	ftr_rkrpq	# Tevq Ratvar Rkrphgvba Freivpr
+ftr-rkrpq	6445/hqc	ftr_rkrpq
+zlfdy-cebkl	6446/gpc			# ZlFDY Cebkl
+zlfdy-cebkl	6446/hqc
+onory		6696/hqc			# Onory Ebhgvat Cebgbpby
+vepf-h		6697/gpc		# Vagrearg Erynl Pung ivn GYF/FFY
+nsf3-svyrfreire 7000/gpc	oof		# svyr freire vgfrys
+nsf3-svyrfreire 7000/hqc	oof
+nsf3-pnyyonpx	7001/gpc			# pnyyonpxf gb pnpur znantref
+nsf3-pnyyonpx	7001/hqc
+nsf3-cefreire	7002/gpc			# hfref & tebhcf qngnonfr
+nsf3-cefreire	7002/hqc
+nsf3-iyfreire	7003/gpc			# ibyhzr ybpngvba qngnonfr
+nsf3-iyfreire	7003/hqc
+nsf3-xnfreire	7004/gpc			# NSF/Xreorebf nhguragvpngvba
+nsf3-xnfreire	7004/hqc
+nsf3-ibyfre	7005/gpc			# ibyhzr znantzrag freire
+nsf3-ibyfre	7005/hqc
+nsf3-reebef	7006/gpc			# reebe vagrecergngvba freivpr
+nsf3-reebef	7006/hqc
+nsf3-obf	7007/gpc			# onfvp birefrre cebprff
+nsf3-obf	7007/hqc
+nsf3-hcqngr	7008/gpc			# freire-gb-freire hcqngre
+nsf3-hcqngr	7008/hqc
+nsf3-ezgflf	7009/gpc			# erzbgr pnpur znantre freivpr
+nsf3-ezgflf	7009/hqc
+sbag-freivpr	7100/gpc	ksf		# K Sbag Freivpr
+sbag-freivpr	7100/hqc	ksf
+uggc-nyg	8080/gpc	jropnpur	# JJJ pnpuvat freivpr
+uggc-nyg	8080/hqc
+chccrg		8140/gpc			# Gur Chccrg znfgre freivpr
+onphyn-qve	9101/gpc			# Onphyn Qverpgbe
+onphyn-qve	9101/hqc
+onphyn-sq	9102/gpc			# Onphyn Svyr Qnrzba
+onphyn-sq	9102/hqc
+onphyn-fq	9103/gpc			# Onphyn Fgbentr Qnrzba
+onphyn-fq	9103/hqc
+kzzf2		9667/gpc	# Pebff-cyngsbez Zhfvp Zhygvcyrkvat Flfgrz
+kzzf2		9667/hqc
+aoq		10809/gpc			# Yvahk Argjbex Oybpx Qrivpr
+mnoovk-ntrag	10050/gpc			# Mnoovk Ntrag
+mnoovk-ntrag	10050/hqc
+mnoovk-genccre	10051/gpc			# Mnoovk Genccre
+mnoovk-genccre	10051/hqc
+nznaqn		10080/gpc			# nznaqn onpxhc freivprf
+nznaqn		10080/hqc
+qvpbz		11112/gpc
+uxc		11371/gpc			# BcraCTC UGGC Xrlfreire
+uxc		11371/hqc
+oceq		13720/gpc			# IREVGNF ArgOnpxhc
+oceq		13720/hqc
+ocqoz		13721/gpc			# IREVGNF ArgOnpxhc
+ocqoz		13721/hqc
+ocwnin-zfip	13722/gpc			# OC Wnin ZFIP Cebgbpby
+ocwnin-zfip	13722/hqc
+iargq		13724/gpc			# Irevgnf Argjbex Hgvyvgl
+iargq		13724/hqc
+ocpq		13782/gpc			# IREVGNF ArgOnpxhc
+ocpq		13782/hqc
+ibcvrq		13783/gpc			# IREVGNF ArgOnpxhc
+ibcvrq		13783/hqc
+qo-yfc		17500/gpc			# Qebcobk YnaFlap Cebgbpby
+qpnc		22125/gpc			# qPnpur Npprff Cebgbpby
+tfvqpnc		22128/gpc			# TFV qPnpur Npprff Cebgbpby
+jaa6		22273/gpc			# jaa6
+jaa6		22273/hqc
+
+#
+# Qngntenz Qryvirel Cebgbpby freivprf
+#
+egzc		1/qqc			# Ebhgvat Gnoyr Znvagranapr Cebgbpby
+aoc		2/qqc			# Anzr Ovaqvat Cebgbpby
+rpub		4/qqc			# NccyrGnyx Rpub Cebgbpby
+mvc		6/qqc			# Mbar Vasbezngvba Cebgbpby
+
+#=========================================================================
+# Gur erznvavat cbeg ahzoref ner abg nf nyybpngrq ol VNAN.
+#=========================================================================
+
+# Xreorebf (Cebwrpg Nguran/ZVG) freivprf
+# Abgr gung gurfr ner sbe Xreorebf i4, naq ner habssvpvny.  Fvgrf ehaavat
+# i4 fubhyq hapbzzrag gurfr naq pbzzrag bhg gur i5 ragevrf nobir.
+#
+xreorebf4	750/hqc		xreorebf-vi xqp	# Xreorebf (freire)
+xreorebf4	750/gpc		xreorebf-vi xqp
+xreorebf-znfgre	751/hqc		xreorebf_znfgre	# Xreorebf nhguragvpngvba
+xreorebf-znfgre	751/gpc
+cnffjq-freire	752/hqc		cnffjq_freire	# Xreorebf cnffjq freire
+xeo-cebc	754/gpc		xeo_cebc xeo5_cebc ucebc # Xreorebf fynir cebcntngvba
+xeohcqngr	760/gpc		xert		# Xreorebf ertvfgengvba
+fjng		901/gpc				# fjng
+xcbc		1109/gpc			# Cbc jvgu Xreorebf
+xargq		2053/gpc			# Xreorebf qr-zhygvcyrkbe
+mrcule-fei	2102/hqc			# Mrcule freire
+mrcule-pyg	2103/hqc			# Mrcule frei-uz pbaarpgvba
+mrcule-uz	2104/hqc			# Mrcule ubfgznantre
+rxybtva		2105/gpc			# Xreorebf rapelcgrq eybtva
+# Uzzz. Ner jr hfvat Xi4 be Xi5 abj? Jbeelvat.
+# Gur sbyybjvat vf cebonoyl Xreorebf i5  --- nwg@qrovna.bet (11/02/2000)
+xk		2111/gpc			# K bire Xreorebf
+vcebc		2121/gpc			# vaperzragny cebcntngvba
+#
+# Habssvpvny ohg arprffnel (sbe ArgOFQ) freivprf
+#
+fhcsvyrfei	871/gpc				# FHC freire
+fhcsvyrqot	1127/gpc			# FHC qrohttvat
+
+#
+# Freivprf nqqrq sbe gur Qrovna TAH/Yvahk qvfgevohgvba
+#
+cbccnffq	106/gpc				# Rhqben
+cbccnffq	106/hqc
+zbven-qo	775/gpc		zbven_qo	# Zbven qngnonfr
+zbven-hcqngr	777/gpc		zbven_hcqngr	# Zbven hcqngr cebgbpby
+zbven-hert	779/hqc		zbven_hert	# Zbven hfre ertvfgengvba
+fcnzq		783/gpc				# fcnznffnffva qnrzba
+bzvee		808/gpc		bzveeq		# bayvar zveebe
+bzvee		808/hqc		bzveeq
+phfgbzf		1001/gpc			# cznxr phfgbzf freire
+phfgbzf		1001/hqc
+fxxfrei		1178/gpc			# fxx wvfub freire cbeg
+cerqvpg		1210/hqc			# cerqvpg -- fngryyvgr genpxvat
+ezgpst		1236/gpc			# Tenpvyvf Cnpxrgra erzbgr pbasvt freire
+jvcyq		1300/gpc			# Jvcy argjbex zbavgbe
+kgry		1313/gpc			# serapu zvavgry
+kgryj		1314/gpc			# serapu zvavgry
+fhccbeg		1529/gpc			# TANGF
+psvatre		2003/gpc			# TAH Svatre
+sebk		2121/gpc			# sebk: pnpuvat sgc cebkl
+avafgnyy	2150/gpc			# avafgnyy freivpr
+avafgnyy	2150/hqc
+mroenfei	2600/gpc			# mroen freivpr
+mroen		2601/gpc			# mroen igl
+evcq		2602/gpc			# evcq igl (mroen)
+evcatq		2603/gpc			# evcatq igl (mroen)
+bfcsq		2604/gpc			# bfcsq igl (mroen)
+otcq		2605/gpc			# otcq igl (mroen)
+bfcs6q		2606/gpc			# bfcs6q igl (mroen)
+bfcsncv		2607/gpc			# BFCS-NCV
+vfvfq		2608/gpc			# VFVFq igl (mroen)
+nsonpxhc	2988/gpc			# Nsonpxhc flfgrz
+nsonpxhc	2988/hqc
+nszonpxhc	2989/gpc			# Nszonpxhc flfgrz
+nszonpxhc	2989/hqc
+kgryy		4224/gpc			# kgryy freire
+snk		4557/gpc			# SNK genafzvffvba freivpr (byq)
+ulynsnk		4559/gpc			# UlynSNK pyvrag-freire cebgbpby (arj)
+qvfgzc3		4600/gpc			# qvfgzc3ubfg qnrzba
+zhava		4949/gpc	yeeq		# Zhava
+raoq-pfgngq	5051/gpc			# RAOQ pyvrag fgngq
+raoq-ffgngq	5052/gpc			# RAOQ freire fgngq
+cpeq		5151/gpc			# CPE-1000 Qnrzba
+abpybt		5354/gpc			# abpybtq jvgu GPC (abpby)
+abpybt		5354/hqc			# abpybtq jvgu HQC (abpby)
+ubfgzba		5355/gpc			# ubfgzba hfrf GPC (abpby)
+ubfgzba		5355/hqc			# ubfgzba hfrf HQC (abpby)
+ecynl		5555/hqc			# ECynl nhqvb freivpr
+aecr		5666/gpc			# Antvbf Erzbgr Cyhtva Rkrphgbe
+afpn		5667/gpc			# Antvbf Ntrag - AFPN
+zegq		5674/gpc			# ZEG Ebhgvat Qnrzba
+otcfvz		5675/gpc			# ZEG Ebhgvat Fvzhyngbe
+pnaan		5680/gpc			# pnaanfreire
+flfybt-gyf	6514/gpc			# Flfybt bire GYF [ESP5425]
+fnar-cbeg	6566/gpc	fnar fnarq	# FNAR argjbex fpnaare qnrzba
+vepq		6667/gpc			# Vagrearg Erynl Pung
+mbcr-sgc	8021/gpc			# mbcr znantrzrag ol sgc
+gcebkl		8081/gpc			# Genafcnerag Cebkl
+bzavbeo		8088/gpc			# BzavBEO
+bzavbeo		8088/hqc
+pyp-ohvyq-qnrzba 8990/gpc			# Pbzzba yvfc ohvyq qnrzba
+kvargq		9098/gpc
+znaqryfcnja	9359/hqc	znaqryoebg	# argjbex znaqryoebg
+tvg		9418/gpc			# Tvg Irefvba Pbageby Flfgrz
+mbcr		9673/gpc			# mbcr freire
+jrozva		10000/gpc
+xnznaqn		10081/gpc			# nznaqn onpxhc freivprf (Xreorebf)
+xnznaqn		10081/hqc
+nznaqnvqk	10082/gpc			# nznaqn onpxhc freivprf
+nzvqkgncr	10083/gpc			# nznaqn onpxhc freivprf
+fzfdc		11201/gpc			# Nynzva FZF tngrjnl
+fzfdc		11201/hqc
+kcvybg		15345/gpc			# KCvybg Pbagnpg Cbeg
+kcvybg		15345/hqc
+ftv-pzfq	17001/hqc		# Pyhfgre zrzorefuvc freivprf qnrzba
+ftv-pefq	17002/hqc
+ftv-tpq		17003/hqc			# FTV Tebhc zrzorefuvc qnrzba
+ftv-pnq		17004/gpc			# Pyhfgre Nqzva qnrzba
+vfqaybt		20011/gpc			# vfqa ybttvat flfgrz
+vfqaybt		20011/hqc
+iobkq		20012/gpc			# ibvpr obk flfgrz
+iobkq		20012/hqc
+ovaxc		24554/gpc			# ovaxc svqbarg cebgbpby
+nfc		27374/gpc			# Nqqerff Frnepu Cebgbpby
+nfc		27374/hqc
+pflap2		30865/gpc			# pyhfgre flapuebavmngvba gbby
+qvepcebkl	57000/gpc			# Qrgnpunoyr VEP Cebkl
+gsvqb		60177/gpc			# svqbarg RZFV bire gryarg
+svqb		60179/gpc			# svqbarg RZFV bire GPC
+
+# Ybpny freivprf
